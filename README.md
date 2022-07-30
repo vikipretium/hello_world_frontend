@@ -32,9 +32,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Vignesh**
 
+<<<<<<< HEAD
 - GitHub: [@vikipretium](https://github.com/vikipretium)
 - Twitter: [@vikipretium](https://twitter.com/vikipretium)
 - LinkedIn: [@vikipretium](https://linkedin.com/in/vikipretium)
+=======
+- GitHub: [@Sboursen](https://github.com/vikipretium)
+- Twitter: [@sboursen_dev](https://twitter.com/vikipretium)
+- LinkedIn: [@sboursen](https://linkedin.com/in/vikipretium)
+>>>>>>> a3fced7c8ccd6fffe7f8d67df4e9493d4585a471
 
 ## 🤝 Contributing
 
